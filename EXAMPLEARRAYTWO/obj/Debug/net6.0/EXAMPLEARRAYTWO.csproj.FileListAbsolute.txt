@@ -1,0 +1,15 @@
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.AssemblyInfo.cs
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\bin\Debug\net6.0\EXAMPLEARRAYTWO.exe
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\bin\Debug\net6.0\EXAMPLEARRAYTWO.deps.json
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\bin\Debug\net6.0\EXAMPLEARRAYTWO.runtimeconfig.json
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\bin\Debug\net6.0\EXAMPLEARRAYTWO.dll
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\bin\Debug\net6.0\EXAMPLEARRAYTWO.pdb
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.dll
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\refint\EXAMPLEARRAYTWO.dll
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.pdb
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\EXAMPLEARRAYTWO.genruntimeconfig.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EXAMPLEARRAYTWO\obj\Debug\net6.0\ref\EXAMPLEARRAYTWO.dll

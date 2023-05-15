@@ -1,0 +1,15 @@
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.AssemblyInfo.cs
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\bin\Debug\net6.0\EjemploArrays.exe
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\bin\Debug\net6.0\EjemploArrays.deps.json
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\bin\Debug\net6.0\EjemploArrays.runtimeconfig.json
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\bin\Debug\net6.0\EjemploArrays.dll
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\bin\Debug\net6.0\EjemploArrays.pdb
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.dll
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\refint\EjemploArrays.dll
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.pdb
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\EjemploArrays.genruntimeconfig.cache
+C:\Users\Sena\Desktop\HerramientasDeProgramacion\EjemploArrays\obj\Debug\net6.0\ref\EjemploArrays.dll
